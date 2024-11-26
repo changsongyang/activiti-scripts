@@ -1,8 +1,8 @@
 release:
   branch: develop
-  version: 7.19.0-rc.207
-  nextVersion: 8.3.0-SNAPSHOT
-  notesStartTag: 8.1.0
+  version: 8.8.0-mock
+  nextVersion: 8.9.0-SNAPSHOT
+  notesStartTag: 8.6.0
   mock: false
   baseTag:
     activiti: 8.7.0-alpha.36
